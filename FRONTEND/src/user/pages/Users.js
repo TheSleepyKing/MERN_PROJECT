@@ -8,7 +8,7 @@ const Users = () => {
       id: "u1",
       name: "Jameel Seboa",
       image:
-        "https://media-exp1.licdn.com/dms/image/C5603AQHS4X_4Nt21CA/profile-displayphoto-shrink_200_200/0/1598813199748?e=1639612800&v=beta&t=EIvl_Egl6ua8ibDbVoZQd8hQy-_LY1xWAImWD7Qzezc",
+        "https://media-exp1.licdn.com/dms/image/D4D03AQGRdUNmYHjsyw/profile-displayphoto-shrink_800_800/0/1640185635393?e=1648080000&v=beta&t=fXuUeSs8mzMqbJ3yXY_uupjkLiRsOqIvknqa3tsM7SU",
       places: 3,
     },
   ];

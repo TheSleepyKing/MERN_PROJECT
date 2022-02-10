@@ -9,7 +9,7 @@ import {
 import Users from "./user/pages/Users";
 import NewPlace from "./places/pages/NewPlace";
 import UserPlaces from "./places/pages/UserPlaces";
-import MainNavigation from "./shared/components/UIElements/Navigation/MainNavigation";
+import MainNavigation from "./shared/components/Navigation/MainNavigation";
 const App = () => {
   return (
     <Router>

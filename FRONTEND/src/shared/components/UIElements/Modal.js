@@ -1,9 +1,16 @@
 import React from "react";
+import { ReactDOM } from "react";
 
-import "./Modal.css"
+import "./Modal.css";
 
-const Modal = props => {
+const ModalOverlay = props => {
+    const content =(
+        <div className="="
+    )
+    return ReactDOM.createPortal(, document.getElementById('model-hook'))
 
-};
+}
+
+const Modal = (props) => {};
 
 export default Modal;
